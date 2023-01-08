@@ -20,7 +20,7 @@ int main(){
     dp[0] = input[0];
     dp[1] = dp[0] + input[1];
     dp[2] = max(dp[0] + input[2], input[1] + input[2]);
-    for(int i = 2; i < n; i++){
+    for(int i = 3; i < n; i++){
         int temp1 = dp[i - 2] + input[i];
         int temp2;
         if(i < 3)
