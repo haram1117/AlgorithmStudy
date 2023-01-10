@@ -1,9 +1,9 @@
 # ninja log v5
-0	105	6949447168900459	build.ninja	bf09055911fa0dd8
+0	105	6950155540923408	build.ninja	bf09055911fa0dd8
 2	33	6940732386517632	CMakeFiles/AlgorithmStudy.dir/main.cpp.obj	227ce63cf1bb0eb5
 3	270	6945117718518769	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP2133.cpp.obj	200a0b209594d67f
 2	269	6940756156559519	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP1463.cpp.obj	2a6dff42656117a7
-324	471	6948682044964355	AlgorithmStudy.exe	a85ff77eb486d9e4
+322	468	6949454981515911	AlgorithmStudy.exe	22b4d855db7b104d
 3	286	6944251189208797	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP1912.cpp.obj	1c6adbb1c96d0c04
 3	284	6942571283131842	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP1699.cpp.obj	780e2f4db39df30f
 3	283	6944318749900410	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP2011.cpp.obj	8085de6d98dbe8d4
@@ -11,7 +11,12 @@
 2	268	6946781290055441	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP2193.cpp.obj	2b9816ac67039495
 3	317	6947684360202385	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP2225.cpp.obj	335959fea5a60416
 3	323	6948682043634356	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP2579.cpp.obj	8fb2673ffeff8780
-0	382	6949454661150710	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP9095.cpp.obj	e0c17e6d5ba1d4
-384	641	6949454663520715	AlgorithmStudy.exe	22b4d855db7b104d
 3	321	6949454980206189	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP9095.cpp.obj	e0c17e6d5ba1d4
-322	468	6949454981515911	AlgorithmStudy.exe	22b4d855db7b104d
+0	376	6950168819790501	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP9461.cpp.obj	8ac90c1f5bcfc77b
+379	641	6950168822200933	AlgorithmStudy.exe	d692aaf390c2de71
+3	332	6950169760433973	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP9461.cpp.obj	8ac90c1f5bcfc77b
+333	485	6950169761725072	AlgorithmStudy.exe	d692aaf390c2de71
+3	321	6950171855264452	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP9461.cpp.obj	8ac90c1f5bcfc77b
+322	465	6950171856554345	AlgorithmStudy.exe	d692aaf390c2de71
+3	321	6950172478317037	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP9461.cpp.obj	8ac90c1f5bcfc77b
+321	487	6950172479758853	AlgorithmStudy.exe	d692aaf390c2de71
