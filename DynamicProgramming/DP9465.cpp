@@ -38,7 +38,7 @@ int main(){
     }
 
     for(int i = 0; i < t; i++){
-        cout << results[i] << endl;
+        cout << results[i] << "\n";
     }
 
     delete[] results;
