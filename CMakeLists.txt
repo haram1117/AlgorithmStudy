@@ -4,4 +4,4 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy main.cpp DynamicProgramming/DP11727.cpp)
+add_executable(AlgorithmStudy main.cpp Others/OT1168.cpp)
