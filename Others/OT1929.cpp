@@ -15,9 +15,9 @@ bool isPrime(int n){
         return false;
     for(int i = 2; i * i <= n; i++){
         if(n % i == 0)
-            return true;
+            return false;
     }
-    return false;
+    return true;
 }
 
 int main(){
@@ -25,9 +25,7 @@ int main(){
     cin >> m >> n;
 
     for(int i = m; i <= n; i++){
-        if(i == 1)
-            continue;
-        if(!isPrime(i))
+        if(isPrime(i))
             cout << i << "\n";
     }
     return 0;
