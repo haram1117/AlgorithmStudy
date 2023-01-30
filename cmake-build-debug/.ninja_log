@@ -1,9 +1,9 @@
 # ninja log v5
 3	331	6966632099511702	CMakeFiles/AlgorithmStudy.dir/Others/OT1850.cpp.obj	f61291bd0f98e83d
 3	319	6957331603728210	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP11053.cpp.obj	f702d0c3dc112c95
-9	434	6967531668844442	build.ninja	bf09055911fa0dd8
+9	434	6967569431030070	build.ninja	bf09055911fa0dd8
 1	87	6952063908908155	CMakeFiles/AlgorithmStudy.dir/main.cpp.obj	227ce63cf1bb0eb5
-333	474	6966707253443698	AlgorithmStudy.exe	110e382494114403
+410	552	6967568358425511	AlgorithmStudy.exe	a49c2b7de4749430
 3	320	6952198956551136	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP10844.cpp.obj	326d6435af17e50f
 0	417	6956420911316094	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP1912.cpp.obj	1c6adbb1c96d0c04
 3	317	6966017361366173	CMakeFiles/AlgorithmStudy.dir/Others/OT1676.cpp.obj	c43754b97e2516c0
@@ -24,21 +24,6 @@
 1	327	6966651148359075	CMakeFiles/AlgorithmStudy.dir/Others/OT1929.cpp.obj	c2d5eced882ac0ea
 3	458	6966644527009000	CMakeFiles/AlgorithmStudy.dir/Others/OT1934.cpp.obj	e6a8ba188e66e0ad
 3	333	6966707252073706	CMakeFiles/AlgorithmStudy.dir/Others/OT2004.cpp.obj	f6a384ed3079e91f
-1	378	6967554602369132	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-380	616	6967554604699139	AlgorithmStudy.exe	a49c2b7de4749430
-3	328	6967554767814846	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-329	465	6967554769134871	AlgorithmStudy.exe	a49c2b7de4749430
-3	320	6967554996257819	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-320	456	6967554997577257	AlgorithmStudy.exe	a49c2b7de4749430
-3	322	6967556407775041	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-323	463	6967556409145026	AlgorithmStudy.exe	a49c2b7de4749430
-3	319	6967556503501023	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-320	453	6967556504801321	AlgorithmStudy.exe	a49c2b7de4749430
-3	323	6967556869932236	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-323	456	6967556871222232	AlgorithmStudy.exe	a49c2b7de4749430
-3	328	6967557993257951	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-329	463	6967557994557968	AlgorithmStudy.exe	a49c2b7de4749430
-3	435	6967559264057444	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-436	579	6967559265467440	AlgorithmStudy.exe	a49c2b7de4749430
 4	409	6967568357025511	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-410	552	6967568358425511	AlgorithmStudy.exe	a49c2b7de4749430
+1	332	6967571693390398	CMakeFiles/AlgorithmStudy.dir/Others/OT2609.cpp.obj	c5d528466068ebd6
+334	468	6967571694710409	AlgorithmStudy.exe	197bfbf5635cf87c
