@@ -1,9 +1,9 @@
 # ninja log v5
 3	331	6966632099511702	CMakeFiles/AlgorithmStudy.dir/Others/OT1850.cpp.obj	f61291bd0f98e83d
 3	319	6957331603728210	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP11053.cpp.obj	f702d0c3dc112c95
-9	434	6967569431030070	build.ninja	bf09055911fa0dd8
+9	434	6967572616520893	build.ninja	bf09055911fa0dd8
 1	87	6952063908908155	CMakeFiles/AlgorithmStudy.dir/main.cpp.obj	227ce63cf1bb0eb5
-410	552	6967568358425511	AlgorithmStudy.exe	a49c2b7de4749430
+334	468	6967571694710409	AlgorithmStudy.exe	197bfbf5635cf87c
 3	320	6952198956551136	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP10844.cpp.obj	326d6435af17e50f
 0	417	6956420911316094	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP1912.cpp.obj	1c6adbb1c96d0c04
 3	317	6966017361366173	CMakeFiles/AlgorithmStudy.dir/Others/OT1676.cpp.obj	c43754b97e2516c0
@@ -19,11 +19,14 @@
 3	328	6963390095640331	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP11727.cpp.obj	287c2cc319dce966
 3	364	6964249051566139	CMakeFiles/AlgorithmStudy.dir/Others/OT1158.cpp.obj	ce9367a5232dd378
 3	323	6965064604271536	CMakeFiles/AlgorithmStudy.dir/Others/OT1168.cpp.obj	e6da01cab06ce5a1
+1	332	6967571693390398	CMakeFiles/AlgorithmStudy.dir/Others/OT2609.cpp.obj	c5d528466068ebd6
 3	340	6965101250170133	CMakeFiles/AlgorithmStudy.dir/Others/OT1212.cpp.obj	88d2ff9b807b1d66
 3	427	6965992454490628	CMakeFiles/AlgorithmStudy.dir/Others/OT1406.cpp.obj	157e7fd4c9fee635
 1	327	6966651148359075	CMakeFiles/AlgorithmStudy.dir/Others/OT1929.cpp.obj	c2d5eced882ac0ea
 3	458	6966644527009000	CMakeFiles/AlgorithmStudy.dir/Others/OT1934.cpp.obj	e6a8ba188e66e0ad
 3	333	6966707252073706	CMakeFiles/AlgorithmStudy.dir/Others/OT2004.cpp.obj	f6a384ed3079e91f
 4	409	6967568357025511	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
-1	332	6967571693390398	CMakeFiles/AlgorithmStudy.dir/Others/OT2609.cpp.obj	c5d528466068ebd6
-334	468	6967571694710409	AlgorithmStudy.exe	197bfbf5635cf87c
+1	313	6967573874171572	CMakeFiles/AlgorithmStudy.dir/Others/OT2743.cpp.obj	897c8ca2a8df2ce1
+317	454	6967573875551887	AlgorithmStudy.exe	cbf5b5ef6c33e484
+3	322	6967574387006465	CMakeFiles/AlgorithmStudy.dir/Others/OT2743.cpp.obj	897c8ca2a8df2ce1
+322	460	6967574388346496	AlgorithmStudy.exe	cbf5b5ef6c33e484
