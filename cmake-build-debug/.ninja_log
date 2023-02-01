@@ -1,10 +1,10 @@
 # ninja log v5
 3	331	6966632099511702	CMakeFiles/AlgorithmStudy.dir/Others/OT1850.cpp.obj	f61291bd0f98e83d
 3	319	6957331603728210	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP11053.cpp.obj	f702d0c3dc112c95
-9	434	6969275095578446	build.ninja	bf09055911fa0dd8
+9	434	6969292080557569	build.ninja	bf09055911fa0dd8
 1	87	6952063908908155	CMakeFiles/AlgorithmStudy.dir/main.cpp.obj	227ce63cf1bb0eb5
 4	338	6968395516579746	CMakeFiles/AlgorithmStudy.dir/Others/OT6588.cpp.obj	2964bb3ec3f12be0
-330	477	6969274109747084	AlgorithmStudy.exe	af4c34217ad04086
+400	548	6969288850455944	AlgorithmStudy.exe	4b977cecd35936ed
 3	320	6952198956551136	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP10844.cpp.obj	326d6435af17e50f
 3	317	6966017361366173	CMakeFiles/AlgorithmStudy.dir/Others/OT1676.cpp.obj	c43754b97e2516c0
 0	417	6956420911316094	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP1912.cpp.obj	1c6adbb1c96d0c04
@@ -32,11 +32,8 @@
 4	409	6967568357025511	CMakeFiles/AlgorithmStudy.dir/Others/OT2089.cpp.obj	680001db42bad91c
 3	398	6968403994215747	CMakeFiles/AlgorithmStudy.dir/Others/OT9012.cpp.obj	b2745d2739d4787a
 1	602	6969272024056408	CMakeFiles/AlgorithmStudy.dir/Others/OT9613.cpp.obj	fc8ac0a1ee620d8e
-0	397	6969284324309533	CMakeFiles/AlgorithmStudy.dir/Others/OT10799.cpp.obj	e1ae0ea369c8dd2e
-399	550	6969284325806548	AlgorithmStudy.exe	4b977cecd35936ed
-3	394	6969284457920214	CMakeFiles/AlgorithmStudy.dir/Others/OT10799.cpp.obj	e1ae0ea369c8dd2e
-395	539	6969284459320221	AlgorithmStudy.exe	4b977cecd35936ed
-3	393	6969285833213428	CMakeFiles/AlgorithmStudy.dir/Others/OT10799.cpp.obj	e1ae0ea369c8dd2e
-393	540	6969285834645023	AlgorithmStudy.exe	4b977cecd35936ed
 3	399	6969288849005957	CMakeFiles/AlgorithmStudy.dir/Others/OT10799.cpp.obj	e1ae0ea369c8dd2e
-400	548	6969288850455944	AlgorithmStudy.exe	4b977cecd35936ed
+1	323	6969293253056976	CMakeFiles/AlgorithmStudy.dir/Others/OT10808.cpp.obj	f04ac4c3a4af308a
+326	465	6969293254434994	AlgorithmStudy.exe	ec42475ecc478787
+3	328	6969293443146611	CMakeFiles/AlgorithmStudy.dir/Others/OT10808.cpp.obj	f04ac4c3a4af308a
+328	467	6969293444496613	AlgorithmStudy.exe	ec42475ecc478787
