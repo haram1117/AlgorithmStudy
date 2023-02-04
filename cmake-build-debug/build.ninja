@@ -55,8 +55,8 @@ build CMakeFiles/AlgorithmStudy.dir/main.cpp.obj: CXX_COMPILER__AlgorithmStudy_D
   OBJECT_DIR = CMakeFiles\AlgorithmStudy.dir
   OBJECT_FILE_DIR = CMakeFiles\AlgorithmStudy.dir
 
-build CMakeFiles/AlgorithmStudy.dir/Others/OT10845.cpp.obj: CXX_COMPILER__AlgorithmStudy_Debug C$:/Users/haram/CLionProjects/AlgorithmStudy/Others/OT10845.cpp || cmake_object_order_depends_target_AlgorithmStudy
-  DEP_FILE = CMakeFiles\AlgorithmStudy.dir\Others\OT10845.cpp.obj.d
+build CMakeFiles/AlgorithmStudy.dir/Others/OT10866.cpp.obj: CXX_COMPILER__AlgorithmStudy_Debug C$:/Users/haram/CLionProjects/AlgorithmStudy/Others/OT10866.cpp || cmake_object_order_depends_target_AlgorithmStudy
+  DEP_FILE = CMakeFiles\AlgorithmStudy.dir\Others\OT10866.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\AlgorithmStudy.dir
   OBJECT_FILE_DIR = CMakeFiles\AlgorithmStudy.dir\Others
@@ -69,7 +69,7 @@ build CMakeFiles/AlgorithmStudy.dir/Others/OT10845.cpp.obj: CXX_COMPILER__Algori
 #############################################
 # Link the executable AlgorithmStudy.exe
 
-build AlgorithmStudy.exe: CXX_EXECUTABLE_LINKER__AlgorithmStudy_Debug CMakeFiles/AlgorithmStudy.dir/main.cpp.obj CMakeFiles/AlgorithmStudy.dir/Others/OT10845.cpp.obj
+build AlgorithmStudy.exe: CXX_EXECUTABLE_LINKER__AlgorithmStudy_Debug CMakeFiles/AlgorithmStudy.dir/main.cpp.obj CMakeFiles/AlgorithmStudy.dir/Others/OT10866.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\AlgorithmStudy.dir
