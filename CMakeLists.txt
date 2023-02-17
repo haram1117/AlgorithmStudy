@@ -4,4 +4,4 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy Graph/GR1260.cpp)
+add_executable(AlgorithmStudy Graph/GR1707.cpp)
