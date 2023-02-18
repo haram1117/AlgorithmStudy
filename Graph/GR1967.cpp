@@ -37,7 +37,7 @@ void dfs(int x, int dist){
 int n;
 int p, c, d;
 int main(){
-//    freopen("input.txt", "r", stdin);
+    freopen("input.txt", "r", stdin);
     cin >> n;
     while(cin >> p >> c >> d){
         graph[p].push_back({c, d});
