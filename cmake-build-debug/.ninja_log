@@ -1,7 +1,7 @@
 # ninja log v5
 3	331	6966632099511702	CMakeFiles/AlgorithmStudy.dir/Others/OT1850.cpp.obj	f61291bd0f98e83d
 3	319	6957331603728210	CMakeFiles/AlgorithmStudy.dir/DynamicProgramming/DP11053.cpp.obj	f702d0c3dc112c95
-9	434	6984110048949629	build.ninja	bf09055911fa0dd8
+9	434	6984110359559281	build.ninja	bf09055911fa0dd8
 3	331	6981404243644313	CMakeFiles/AlgorithmStudy.dir/Others/OT11655.cpp.obj	fc19817884391067
 3	406	6969319828131370	CMakeFiles/AlgorithmStudy.dir/Others/OT10824.cpp.obj	5b24861084632a1c
 3	477	6969307745683019	CMakeFiles/AlgorithmStudy.dir/Others/OT10814.cpp.obj	3feccac3239035c9
@@ -57,3 +57,7 @@
 3	330	6981391710631803	CMakeFiles/AlgorithmStudy.dir/Others/OT11653.cpp.obj	3b6831c5b38af5f
 3	455	6981407998167069	CMakeFiles/AlgorithmStudy.dir/Others/OT11656.cpp.obj	344db6da1ed0151e
 3	618	6982712633796810	CMakeFiles/AlgorithmStudy.dir/Graph/GR1260.cpp.obj	2ca7e8cf1e811c87
+0	355	6984130152303476	CMakeFiles/AlgorithmStudy.dir/Graph/GR1991.cpp.obj	88433b1e6144b995
+357	505	6984130153753475	AlgorithmStudy.exe	e75dcf54e911b0e7
+3	358	6984130313987547	CMakeFiles/AlgorithmStudy.dir/Graph/GR1991.cpp.obj	88433b1e6144b995
+359	511	6984130315507548	AlgorithmStudy.exe	e75dcf54e911b0e7
