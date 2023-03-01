@@ -1,15 +1,14 @@
 # ninja log v5
-9	434	6993585711810038	build.ninja	bf09055911fa0dd8
+9	434	6993600636796092	build.ninja	bf09055911fa0dd8
 1	385	6991807956055675	CMakeFiles/AlgorithmStudy.dir/Graph/GR10451.cpp.obj	265fcb17b56b03fe
-524	676	6993584884921712	AlgorithmStudy.exe	5fb3a7763760dc96
+377	519	6993595905186735	AlgorithmStudy.exe	1f6dc2958059e482
 3	397	6991854698402931	CMakeFiles/AlgorithmStudy.dir/Graph/GR11725.cpp.obj	76b3ec1192c7f348
 3	442	6991131060328735	CMakeFiles/AlgorithmStudy.dir/Graph/GR9466.cpp.obj	ac90b95a5737168b
 7	396	6991835385394749	CMakeFiles/AlgorithmStudy.dir/Graph/GR11724.cpp.obj	7b4e653ba797956d
 3	523	6993584883431715	CMakeFiles/AlgorithmStudy.dir/Search/SC2110.cpp.obj	8a399ac73d2f6431
 3	495	6992996638110444	CMakeFiles/AlgorithmStudy.dir/Search/SC1654.cpp.obj	653269d18fa6d879
-0	400	6993594409868050	CMakeFiles/AlgorithmStudy.dir/Search/SC2805.cpp.obj	dcb124d69f6f2dc6
-403	545	6993594411288054	AlgorithmStudy.exe	1f6dc2958059e482
-3	374	6993594667703093	CMakeFiles/AlgorithmStudy.dir/Search/SC2805.cpp.obj	dcb124d69f6f2dc6
-375	517	6993594669103089	AlgorithmStudy.exe	1f6dc2958059e482
 2	376	6993595903797268	CMakeFiles/AlgorithmStudy.dir/Search/SC2805.cpp.obj	dcb124d69f6f2dc6
-377	519	6993595905186735	AlgorithmStudy.exe	1f6dc2958059e482
+1	545	6993635565188615	CMakeFiles/AlgorithmStudy.dir/Search/SC10815.cpp.obj	37a959995d1fa4b8
+549	1346	6993635573161479	AlgorithmStudy.exe	c5e70d22f7342154
+4	626	6993636489251362	CMakeFiles/AlgorithmStudy.dir/Search/SC10815.cpp.obj	37a959995d1fa4b8
+626	781	6993636490771359	AlgorithmStudy.exe	c5e70d22f7342154
