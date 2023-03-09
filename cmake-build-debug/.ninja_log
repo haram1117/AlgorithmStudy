@@ -1,8 +1,8 @@
 # ninja log v5
-9	434	6999789977515173	build.ninja	bf09055911fa0dd8
+9	434	6999815806216268	build.ninja	bf09055911fa0dd8
 3	680	6999763589647342	CMakeFiles/AlgorithmStudy.dir/Greedy/GD1931.cpp.obj	b5f1f700d932f958
 1	385	6991807956055675	CMakeFiles/AlgorithmStudy.dir/Graph/GR10451.cpp.obj	265fcb17b56b03fe
-333	476	6999788998724892	AlgorithmStudy.exe	f48239863831bb1b
+337	484	6999814236023879	AlgorithmStudy.exe	2d95970a37895b7
 3	397	6991854698402931	CMakeFiles/AlgorithmStudy.dir/Graph/GR11725.cpp.obj	76b3ec1192c7f348
 0	561	6995285339728557	CMakeFiles/AlgorithmStudy.dir/DivideAndConquer/DC2261.cpp.obj	785ac43a9bc7b34d
 3	442	6991131060328735	CMakeFiles/AlgorithmStudy.dir/Graph/GR9466.cpp.obj	ac90b95a5737168b
@@ -11,6 +11,7 @@
 3	523	6993584883431715	CMakeFiles/AlgorithmStudy.dir/Search/SC2110.cpp.obj	8a399ac73d2f6431
 3	495	6992996638110444	CMakeFiles/AlgorithmStudy.dir/Search/SC1654.cpp.obj	653269d18fa6d879
 2	376	6993595903797268	CMakeFiles/AlgorithmStudy.dir/Search/SC2805.cpp.obj	dcb124d69f6f2dc6
+3	337	6999814234598785	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
 4	626	6993636489251362	CMakeFiles/AlgorithmStudy.dir/Search/SC10815.cpp.obj	37a959995d1fa4b8
 3	613	6993655028831902	CMakeFiles/AlgorithmStudy.dir/Search/SC10816.cpp.obj	2247a7310ad5fc02
 3	404	6997198970752606	CMakeFiles/AlgorithmStudy.dir/DivideAndConquer/DC11729.cpp.obj	30a5c6e5d6da1992
@@ -21,19 +22,11 @@
 3	379	6997094926688172	CMakeFiles/AlgorithmStudy.dir/DivideAndConquer/DC11728.cpp.obj	2e9bf6b8ceb3f83a
 3	536	6997870543714188	CMakeFiles/AlgorithmStudy.dir/Greedy/GD1744.cpp.obj	efa8f25e7c405f01
 3	332	6999788997326070	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2873.cpp.obj	34f64bf82ece0d07
-1	339	6999800909111700	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-341	506	6999800910731692	AlgorithmStudy.exe	2d95970a37895b7
-3	327	6999801118402089	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-327	466	6999801119762418	AlgorithmStudy.exe	2d95970a37895b7
-3	326	6999802399437160	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-327	468	6999802400827157	AlgorithmStudy.exe	2d95970a37895b7
-3	335	6999810072420892	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-335	482	6999810073854112	AlgorithmStudy.exe	2d95970a37895b7
-2	331	6999813964755688	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-332	474	6999813966149456	AlgorithmStudy.exe	2d95970a37895b7
-3	329	6999814078827295	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-329	471	6999814080213735	AlgorithmStudy.exe	2d95970a37895b7
-3	329	6999814186195364	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-330	472	6999814187595350	AlgorithmStudy.exe	2d95970a37895b7
-3	337	6999814234598785	CMakeFiles/AlgorithmStudy.dir/Greedy/GD2875.cpp.obj	5fb6a00d6a26ae3f
-337	484	6999814236023879	AlgorithmStudy.exe	2d95970a37895b7
+0	565	7000467256138278	CMakeFiles/AlgorithmStudy.dir/Greedy/GD10610.cpp.obj	31e2553091adcb91
+568	825	7000467258706648	AlgorithmStudy.exe	f4a51632435764d0
+4	517	7000468645229913	CMakeFiles/AlgorithmStudy.dir/Greedy/GD10610.cpp.obj	31e2553091adcb91
+518	677	7000468646779922	AlgorithmStudy.exe	f4a51632435764d0
+3	519	7000468705669515	CMakeFiles/AlgorithmStudy.dir/Greedy/GD10610.cpp.obj	31e2553091adcb91
+520	678	7000468707199527	AlgorithmStudy.exe	f4a51632435764d0
+3	521	7000470212615109	CMakeFiles/AlgorithmStudy.dir/Greedy/GD10610.cpp.obj	31e2553091adcb91
+522	695	7000470214309536	AlgorithmStudy.exe	f4a51632435764d0
