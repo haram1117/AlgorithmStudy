@@ -5,7 +5,7 @@
 using namespace std;
 
 int n, s;
-int input[20];
+int input[40];
 int result;
 int main(){
     cin.tie(NULL);

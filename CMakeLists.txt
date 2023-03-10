@@ -4,4 +4,4 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy Search/SC1182.cpp)
+add_executable(AlgorithmStudy Search/SC1208.cpp)
