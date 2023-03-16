@@ -1,3 +1,3 @@
-C:/Users/haram/Desktop/AlgorithmStudy/cmake-build-debug/CMakeFiles/AlgorithmStudy.dir
-C:/Users/haram/Desktop/AlgorithmStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/haram/Desktop/AlgorithmStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/haram/CLionProjects/AlgorithmStudy/cmake-build-debug/CMakeFiles/AlgorithmStudy.dir
+C:/Users/haram/CLionProjects/AlgorithmStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/haram/CLionProjects/AlgorithmStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
