@@ -1,6 +1,6 @@
 # ninja log v5
-2	208	7006582325665332	build.ninja	bf09055911fa0dd8
-401	549	7006581820667266	AlgorithmStudy.exe	8250ac915aaea8a5
+2	208	7006584434385068	build.ninja	bf09055911fa0dd8
+324	470	7006584066483612	AlgorithmStudy.exe	8e99236170bc21f
 3	444	7006478029194862	CMakeFiles/AlgorithmStudy.dir/Class2/2164.cpp.obj	b6a912b20f08bb0a
 2	496	7006437180180422	CMakeFiles/AlgorithmStudy.dir/Class2/1966.cpp.obj	eee3d14cf871e02d
 4	682	7006470748165609	CMakeFiles/AlgorithmStudy.dir/Class2/2108.cpp.obj	bc239714730e5d52
@@ -15,7 +15,16 @@
 3	535	7006567437336360	CMakeFiles/AlgorithmStudy.dir/Class2/7568.cpp.obj	3cb821f81fc8d425
 3	327	7006578891894354	CMakeFiles/AlgorithmStudy.dir/Class2/10250.cpp.obj	f0e7a1c3b1ddb69b
 3	400	7006581819206983	CMakeFiles/AlgorithmStudy.dir/Class2/10773.cpp.obj	113a9da165e00eb9
-1	326	7006583958588898	CMakeFiles/AlgorithmStudy.dir/Class2/11050.cpp.obj	637324c4720122c5
-328	472	7006583960018895	AlgorithmStudy.exe	8e99236170bc21f
 3	324	7006584065064168	CMakeFiles/AlgorithmStudy.dir/Class2/11050.cpp.obj	637324c4720122c5
-324	470	7006584066483612	AlgorithmStudy.exe	8e99236170bc21f
+1	323	7006589358962804	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
+326	469	7006589360377598	AlgorithmStudy.exe	f6cfd4cc14a5fbad
+3	327	7006590370926897	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
+328	466	7006590372286888	AlgorithmStudy.exe	f6cfd4cc14a5fbad
+3	327	7006590701771084	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
+328	469	7006590703151086	AlgorithmStudy.exe	f6cfd4cc14a5fbad
+3	324	7006590821047965	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
+325	464	7006590822407988	AlgorithmStudy.exe	f6cfd4cc14a5fbad
+3	324	7006591200036753	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
+325	464	7006591201396480	AlgorithmStudy.exe	f6cfd4cc14a5fbad
+3	324	7006593036462245	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
+325	465	7006593037829047	AlgorithmStudy.exe	f6cfd4cc14a5fbad
