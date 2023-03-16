@@ -1,16 +1,11 @@
 # ninja log v5
-2	208	7006489461444302	build.ninja	bf09055911fa0dd8
-323	462	7006488772758844	AlgorithmStudy.exe	ae0df1ac58744f19
+2	208	7006496913698487	build.ninja	bf09055911fa0dd8
+399	543	7006496341998078	AlgorithmStudy.exe	cf790c17e1868170
 3	444	7006478029194862	CMakeFiles/AlgorithmStudy.dir/Class2/2164.cpp.obj	b6a912b20f08bb0a
 2	496	7006437180180422	CMakeFiles/AlgorithmStudy.dir/Class2/1966.cpp.obj	eee3d14cf871e02d
 4	682	7006470748165609	CMakeFiles/AlgorithmStudy.dir/Class2/2108.cpp.obj	bc239714730e5d52
 3	322	7006488771404474	CMakeFiles/AlgorithmStudy.dir/Class2/2292.cpp.obj	49b20804c730fab0
 0	336	7006480590394416	CMakeFiles/AlgorithmStudy.dir/Class2/2231.cpp.obj	8db442de82a8ce97
-0	387	7006494960286152	CMakeFiles/AlgorithmStudy.dir/Class2/2275.cpp.obj	f3dc13313d98f07a
-389	536	7006494961726516	AlgorithmStudy.exe	cf790c17e1868170
-3	388	7006495571124472	CMakeFiles/AlgorithmStudy.dir/Class2/2275.cpp.obj	f3dc13313d98f07a
-388	533	7006495572534169	AlgorithmStudy.exe	cf790c17e1868170
-3	388	7006496032948965	CMakeFiles/AlgorithmStudy.dir/Class2/2275.cpp.obj	f3dc13313d98f07a
-389	532	7006496034348675	AlgorithmStudy.exe	cf790c17e1868170
 3	399	7006496340588088	CMakeFiles/AlgorithmStudy.dir/Class2/2275.cpp.obj	f3dc13313d98f07a
-399	543	7006496341998078	AlgorithmStudy.exe	cf790c17e1868170
+0	542	7006501642153620	CMakeFiles/AlgorithmStudy.dir/Class2/2708.cpp.obj	9f18a923cfc0d494
+546	698	7006501643683588	AlgorithmStudy.exe	ab4fcd29ecb74b3f
