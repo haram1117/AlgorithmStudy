@@ -1,6 +1,6 @@
 # ninja log v5
-2	208	7007366768340784	build.ninja	bf09055911fa0dd8
-436	587	7007366141396108	AlgorithmStudy.exe	9880dffc3a2e8860
+2	208	7007389148375514	build.ninja	bf09055911fa0dd8
+431	580	7007384628990641	AlgorithmStudy.exe	453478b85c5c7b82
 3	444	7006478029194862	CMakeFiles/AlgorithmStudy.dir/Class2/2164.cpp.obj	b6a912b20f08bb0a
 2	496	7006437180180422	CMakeFiles/AlgorithmStudy.dir/Class2/1966.cpp.obj	eee3d14cf871e02d
 4	682	7006470748165609	CMakeFiles/AlgorithmStudy.dir/Class2/2108.cpp.obj	bc239714730e5d52
@@ -20,9 +20,16 @@
 3	324	7006593036462245	CMakeFiles/AlgorithmStudy.dir/Class2/11866.cpp.obj	c29addb94cf354e2
 3	404	7006608316608660	CMakeFiles/AlgorithmStudy.dir/Class2/15829.cpp.obj	f50be4a28502c458
 2	435	7007366139926011	CMakeFiles/AlgorithmStudy.dir/Class3/1003.cpp.obj	b2153cfb5bbaf780
-0	433	7007381934935523	CMakeFiles/AlgorithmStudy.dir/Class3/1012.cpp.obj	e19db022dd88386
-435	585	7007381936415510	AlgorithmStudy.exe	453478b85c5c7b82
-3	729	7007383728757044	CMakeFiles/AlgorithmStudy.dir/Class3/1012.cpp.obj	e19db022dd88386
-729	949	7007383730922528	AlgorithmStudy.exe	453478b85c5c7b82
 3	430	7007384627530334	CMakeFiles/AlgorithmStudy.dir/Class3/1012.cpp.obj	e19db022dd88386
-431	580	7007384628990641	AlgorithmStudy.exe	453478b85c5c7b82
+0	412	7007404310324078	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
+414	1085	7007404317019079	AlgorithmStudy.exe	3334110578888fde
+3	400	7007404995963756	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
+401	542	7007404997333472	AlgorithmStudy.exe	3334110578888fde
+3	402	7007408487668595	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
+402	544	7007408489050537	AlgorithmStudy.exe	3334110578888fde
+3	402	7007411223377723	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
+402	543	7007411224747728	AlgorithmStudy.exe	3334110578888fde
+4	400	7007412117672571	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
+400	542	7007412119062570	AlgorithmStudy.exe	3334110578888fde
+3	398	7007412788807265	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
+399	540	7007412790177276	AlgorithmStudy.exe	3334110578888fde
