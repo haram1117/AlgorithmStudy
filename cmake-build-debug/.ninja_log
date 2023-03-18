@@ -1,7 +1,8 @@
 # ninja log v5
-2	208	7007413911990680	build.ninja	bf09055911fa0dd8
-399	540	7007412790177276	AlgorithmStudy.exe	3334110578888fde
+2	208	7008520164035765	build.ninja	bf09055911fa0dd8
+623	782	7008109927057818	AlgorithmStudy.exe	a0d14ae31dfb80d5
 3	444	7006478029194862	CMakeFiles/AlgorithmStudy.dir/Class2/2164.cpp.obj	b6a912b20f08bb0a
+3	395	7008100246445435	CMakeFiles/AlgorithmStudy.dir/Programmers/SkiilCheck2_1.cpp.obj	33c6c75e1539e61
 2	496	7006437180180422	CMakeFiles/AlgorithmStudy.dir/Class2/1966.cpp.obj	eee3d14cf871e02d
 4	682	7006470748165609	CMakeFiles/AlgorithmStudy.dir/Class2/2108.cpp.obj	bc239714730e5d52
 3	322	7006488771404474	CMakeFiles/AlgorithmStudy.dir/Class2/2292.cpp.obj	49b20804c730fab0
@@ -22,13 +23,7 @@
 3	398	7007412788807265	CMakeFiles/AlgorithmStudy.dir/Class3/1074.cpp.obj	2a3fb0bd0af9cedc
 2	435	7007366139926011	CMakeFiles/AlgorithmStudy.dir/Class3/1003.cpp.obj	b2153cfb5bbaf780
 3	430	7007384627530334	CMakeFiles/AlgorithmStudy.dir/Class3/1012.cpp.obj	e19db022dd88386
-0	516	7007430725135904	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
-518	680	7007430726745881	AlgorithmStudy.exe	4aab520ce6457df7
-3	503	7007430906974907	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
-504	666	7007430908565211	AlgorithmStudy.exe	4aab520ce6457df7
-3	512	7007431980886237	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
-512	669	7007431982427006	AlgorithmStudy.exe	4aab520ce6457df7
-3	518	7007432412355639	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
-518	685	7007432413995638	AlgorithmStudy.exe	4aab520ce6457df7
-3	500	7007432607271394	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
-501	662	7007432608856287	AlgorithmStudy.exe	4aab520ce6457df7
+3	572	7008087365749728	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
+3	623	7008109925492844	CMakeFiles/AlgorithmStudy.dir/Programmers/SkillCheck2_2.cpp.obj	bc140355c6ac22b8
+0	337	7008520800811104	CMakeFiles/AlgorithmStudy.dir/Others/2744.cpp.obj	b3cc8a2f7168787a
+339	875	7008520806159651	AlgorithmStudy.exe	65bf3194f295f830
