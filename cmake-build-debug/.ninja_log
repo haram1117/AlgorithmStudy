@@ -1,6 +1,6 @@
 # ninja log v5
-2	208	7009145484818005	build.ninja	bf09055911fa0dd8
-598	1101	7009144185564545	AlgorithmStudy.exe	470eb03166c67e31
+2	208	7009971026085629	build.ninja	bf09055911fa0dd8
+477	636	7009968969361564	AlgorithmStudy.exe	b1aa142b59c82227
 3	444	7006478029194862	CMakeFiles/AlgorithmStudy.dir/Class2/2164.cpp.obj	b6a912b20f08bb0a
 3	395	7008100246445435	CMakeFiles/AlgorithmStudy.dir/Programmers/SkiilCheck2_1.cpp.obj	33c6c75e1539e61
 2	496	7006437180180422	CMakeFiles/AlgorithmStudy.dir/Class2/1966.cpp.obj	eee3d14cf871e02d
@@ -27,9 +27,18 @@
 3	572	7008087365749728	CMakeFiles/AlgorithmStudy.dir/Class3/1389.cpp.obj	27572257f4c9f3a8
 3	623	7008109925492844	CMakeFiles/AlgorithmStudy.dir/Programmers/SkillCheck2_2.cpp.obj	bc140355c6ac22b8
 3	597	7009144180547966	CMakeFiles/AlgorithmStudy.dir/Class3/1620.cpp.obj	8e0ca02a3080736c
-0	641	7009967498206467	CMakeFiles/AlgorithmStudy.dir/Class3/1541.cpp.obj	88c3d9a8f7a18961
-643	905	7009967500809255	AlgorithmStudy.exe	b1aa142b59c82227
-3	480	7009968096422461	CMakeFiles/AlgorithmStudy.dir/Class3/1541.cpp.obj	88c3d9a8f7a18961
-480	636	7009968097942154	AlgorithmStudy.exe	b1aa142b59c82227
 3	476	7009968967797338	CMakeFiles/AlgorithmStudy.dir/Class3/1541.cpp.obj	88c3d9a8f7a18961
-477	636	7009968969361564	AlgorithmStudy.exe	b1aa142b59c82227
+0	320	7009985152929598	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+324	462	7009985154312815	AlgorithmStudy.exe	83bc06bc54937ea6
+3	324	7009985318140426	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+324	465	7009985319504540	AlgorithmStudy.exe	83bc06bc54937ea6
+3	324	7009985397528755	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+325	465	7009985398892288	AlgorithmStudy.exe	83bc06bc54937ea6
+3	457	7010004881388378	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+458	612	7010004882898388	AlgorithmStudy.exe	83bc06bc54937ea6
+3	444	7010007748960979	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+445	594	7010007750411316	AlgorithmStudy.exe	83bc06bc54937ea6
+3	445	7010008087519082	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+446	593	7010008088964022	AlgorithmStudy.exe	83bc06bc54937ea6
+2	440	7010008405969724	CMakeFiles/AlgorithmStudy.dir/Class3/1697.cpp.obj	da68f3facf8b5de3
+441	591	7010008407439730	AlgorithmStudy.exe	83bc06bc54937ea6
