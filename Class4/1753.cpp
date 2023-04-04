@@ -16,17 +16,14 @@ void dijk(){
     priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> q;
     q.emplace(0, k);
     while(!q.empty()){
-        int x = q.top().first;
-        int u = q.top().second;
+        int dist = q.top().first;
+        int dest = q.top().second;
         q.pop();
 
-        for(int i = 0; i < info[u].size(); i++){
-            int V = info[u][i].first;
-            int W = info[u][i].second;
-
-            if(x + W < table[V]){
-                table[V] = x + W;
-                q.emplace(x + W, V);
+        for(const auto &elem : info[dest]){
+            if(table[elem.first] > dist + elem.second){
+                table[elem.first] = dist + elem.second;
+                q.emplace(dist + elem.second, elem.first);
             }
         }
     }
@@ -38,10 +35,11 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin >> v >> e >> k;
     for(int i = 0; i < e; i++){
-        int u, v, w;
-        cin >> u >> v >> w;
-        info[u].emplace_back(v, w);
+        int u, v1, w;
+        cin >> u >> v1 >> w;
+        info[u].emplace_back(v1, w);
     }
+
     for(int i = 1; i <= v; i++) table[i] = INF;
 
     dijk();
