@@ -27,7 +27,7 @@ int main(){
                     }
                     break;
                 }
-                if(s.top() == bomb[i]){
+                if(s.top() == bomb[i]){ // 여기서 s가 empty인지 계속 확인해줘야 함(반례: A, BA)
                     s.pop();
                     tmp.emplace(bomb[i]);
                 }
