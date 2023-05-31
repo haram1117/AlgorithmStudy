@@ -4,4 +4,4 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy Greedy/2457.cpp)
+add_executable(AlgorithmStudy DynamicProgramming/2565.cpp)
