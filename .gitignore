@@ -55,7 +55,7 @@ cmake-build-debug/
 *.iws
 
 # IntelliJ
-out/
+Others/out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -118,3 +118,4 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/clion
 
 */input.txt
+/Others/out
