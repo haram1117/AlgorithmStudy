@@ -4,4 +4,4 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy 2749.cpp)
+add_executable(AlgorithmStudy DivideAndConquer/2749.cpp)
