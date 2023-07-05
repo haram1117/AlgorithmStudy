@@ -4,4 +4,4 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy Bronze/9653.cpp)
+add_executable(AlgorithmStudy Bronze/9654.cpp)
