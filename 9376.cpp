@@ -5,36 +5,30 @@
 
 #include <iostream>
 #include <queue>
-#define MAX 987654321;
+#define MAX 10000;
 using namespace std;
 
 int tc;
 int h, w;
-char map[100][100];
-int cost[100][100];
-int cost2[100][100];
+char map[102][102];
+
+int cost1[102][102];
+int cost2[102][102];
+int cost3[102][102];
+
 int result;
 pair<int, int> pos[2];
 int posCount;
 int dir[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
-void print(){
-    for(int i = 0; i < h; ++i){
-        for(int j = 0; j < w; ++j)
-            cout << cost[i][j] << '\t';
-        cout << '\n';
-    }
-    cout << '\n';
-}
-
-void bfs(int x, int y, int price){
-    for(int i = 0; i < h; ++i){
-        for(int j = 0; j < w; ++j)
-            cost2[i][j] = MAX;
+void bfs(int x, int y, int cost[][102]){
+    for(int i = 0; i <= h + 1; ++i){
+        for(int j = 0; j <= w + 1; ++j)
+            cost[i][j] = MAX;
     }
     priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> pq;
-    pq.emplace(price, make_pair(x, y));
-    cost2[x][y] = price;
+    pq.emplace(0, make_pair(x, y));
+    cost[x][y] = 0;
 
 
     while(!pq.empty()){
@@ -43,26 +37,21 @@ void bfs(int x, int y, int price){
         int _y = pq.top().second.second;
         pq.pop();
 
-        if(_x == 0 || _x == h - 1 || _y == 0 || _y == w - 1){
-            result = min(result, p);
-            return;
-        }
-
         for(const auto & elem : dir){
             int nx = _x + elem[0];
             int ny = _y + elem[1];
 
-            if(nx >= 0 && nx < h && ny >= 0 && ny < w){
+            if(nx >= 0 && nx <= h + 1 && ny >= 0 && ny <= w + 1){
                 if(map[nx][ny] == '#'){
-                    if(cost2[nx][ny] > p + 1){
+                    if(cost[nx][ny] > p + 1){
                         pq.emplace(p + 1, make_pair(nx, ny));
-                        cost2[nx][ny] = p + 1;
+                        cost[nx][ny] = p + 1;
                     }
                 }
                 else if(map[nx][ny] == '.' || map[nx][ny] == '$'){
-                    if(cost2[nx][ny] > p){
+                    if(cost[nx][ny] > p){
                         pq.emplace(p, make_pair(nx, ny));
-                        cost2[nx][ny] = p;
+                        cost[nx][ny] = p;
                     }
                 }
             }
@@ -70,34 +59,6 @@ void bfs(int x, int y, int price){
     }
 }
 
-void dfs(int x, int y, int price){
-    cost[x][y] = price;
-
-    if(x == 0 || x == h - 1 || y == 0 || y == w - 1 || (x == pos[1].first && y == pos[1].second)){
-        bfs(pos[1].first, pos[1].second, price);
-    }
-
-    for(const auto & elem : dir){
-        int nx = x + elem[0];
-        int ny = y + elem[1];
-        if(nx >= 0 && nx < h && ny >= 0 && ny < w){
-            if(map[nx][ny] == '.' || map[nx][ny] == '$'){
-                if(cost[nx][ny] > price){
-                    cost[nx][ny] = price;
-                    dfs(nx, ny, price);
-                }
-            }
-            else if(map[nx][ny] == '#'){
-                if(cost[nx][ny] > price + 1){
-                    cost[nx][ny] = price + 1;
-                    map[nx][ny] = '.';
-                    dfs(nx, ny, price + 1);
-                    map[nx][ny] = '#';
-                }
-            }
-        }
-    }
-}
 int main(){
     cin.tie(NULL);
     cout.tie(NULL);
@@ -111,19 +72,42 @@ int main(){
 
         // 입력
         cin >> h >> w;
-        for(int i = 0; i < h; ++i)
-            for(int j = 0; j < w; ++j){
+        for(int j = 0; j <= w + 1; ++j){
+            map[0][j] = '.';
+            map[h + 1][j] = '.';
+            for(int i = 0; i <= h + 1; ++i){
+                cost1[j][i] = MAX;
+                cost2[j][i] = MAX;
+                cost3[j][i] = MAX;
+            }
+        }
+        for(int i = 1; i <= h; ++i){
+            map[i][0] = '.';
+            map[i][w + 1] = '.';
+            for(int j = 1; j <= w; ++j){
                 cin >> map[i][j];
                 if(map[i][j] == '$') {
                     pos[posCount].first = i;
                     pos[posCount].second = j;
                     posCount++;
                 }
-                cost[i][j] = MAX;
             }
+        }
 
         // 풀이
-        dfs(pos[0].first, pos[0].second, 0);
+
+        bfs(0, 0, cost1);
+        bfs(pos[0].first, pos[0].second, cost2);
+        bfs(pos[1].first, pos[1].second, cost3);
+
+        for(int i = 1; i <= h; ++i){
+            for(int j = 1; j <= w; ++j){
+                if(map[i][j] == '#')
+                    result = min(result, cost1[i][j] + cost2[i][j] + cost3[i][j] - 2);
+                else if((i == 1 || j == 1 || i == h || j == w))
+                    result = min(result, cost1[i][j] + cost2[i][j] + cost3[i][j]);
+            }
+        }
 
         // 출력
         cout << result << '\n';
