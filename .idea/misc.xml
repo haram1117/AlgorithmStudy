@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/Bronze" />
+      <file path="$PROJECT_DIR$/Class1" />
+      <file path="$PROJECT_DIR$/Class2" />
+      <file path="$PROJECT_DIR$/Class3" />
+      <file path="$PROJECT_DIR$/Class4" />
+      <file path="$PROJECT_DIR$/DivideAndConquer" />
+      <file path="$PROJECT_DIR$/DynamicProgramming" />
+      <file path="$PROJECT_DIR$/Geometry" />
+      <file path="$PROJECT_DIR$/Graph" />
+      <file path="$PROJECT_DIR$/Greedy" />
+      <file path="$PROJECT_DIR$/Implementation" />
+      <file path="$PROJECT_DIR$/Others" />
+      <file path="$PROJECT_DIR$/Search" />
+    </excludeRoots>
+  </component>
 </project>
