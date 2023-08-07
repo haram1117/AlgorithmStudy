@@ -119,3 +119,7 @@ fabric.properties
 
 */input.txt
 /Others/out
+
+.vscode/
+*.exe
+build/
