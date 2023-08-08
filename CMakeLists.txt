@@ -4,4 +4,5 @@ project(AlgorithmStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(AlgorithmStudy HashMap/25757.cpp)
+add_executable(AlgorithmStudy
+        20125.cpp)
