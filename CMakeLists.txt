@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        Others/1244.cpp)
+        Implementation/9017.cpp)
