@@ -28,19 +28,27 @@ int main(){
         for(int j = 0; j < m; ++j)
         {
             int minVal = 600;
-            for(int k = 0; k < 3; ++k)
-            {
-                int ni = i + dir[k][0];
-                int nj = j + dir[k][1];
-                if(nj < 0 || nj >= m)
-                    continue;
-                for(int s = 0; s < 3; ++s){
-                    if(s == k)
-                        continue;
-                    minVal = min(minVal, info[ni][nj][s]);
-                }
-                info[i][j][k] += minVal;
+            if(j + 1 < m){
+                minVal = min(minVal, info[i - 1][j + 1][1]);
+                minVal = min(minVal, info[i - 1][j + 1][2]);
+                info[i][j][0] += minVal;
             }
+            else
+                info[i][j][0] = 600;
+
+            minVal = 600;
+            minVal = min(minVal, info[i - 1][j][0]);
+            minVal = min(minVal, info[i - 1][j][2]);
+            info[i][j][1] += minVal;
+
+            if(j - 1 >= 0){
+                minVal = 600;
+                minVal = min(minVal, info[i - 1][j - 1][0]);
+                minVal = min(minVal, info[i - 1][j - 1][1]);
+                info[i][j][2] += minVal;
+            }
+            else
+                info[i][j][2] = 600;
         }
     }
 
