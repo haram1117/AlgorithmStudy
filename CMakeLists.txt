@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        HashMap/22233.cpp)
+        Implementation/20006.cpp)
