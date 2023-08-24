@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        Greedy/11501.cpp)
+        Implementation/2304.cpp)
