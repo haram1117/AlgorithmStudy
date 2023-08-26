@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        DynamicProgramming/15989.cpp)
+        Graph/1446.cpp)
