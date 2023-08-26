@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        Others/20922.cpp)
+        DynamicProgramming/15989.cpp)
