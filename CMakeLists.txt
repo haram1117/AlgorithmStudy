@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        Bronze/15000.cpp)
+        Bronze/15372.cpp)
