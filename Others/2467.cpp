@@ -28,7 +28,7 @@ int main(){
             ans = {info[front], info[back]};
             if(sum == 0)
                 break;
-        }`
+        }
         if(sum > 0)
             back--;
         else
