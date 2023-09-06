@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        Implementation/7682.cpp)
+        Graph/2668.cpp)
