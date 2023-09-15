@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(AlgorithmStudy
-        Geometry/1027.cpp)
+        Bronze/21591.cpp)
